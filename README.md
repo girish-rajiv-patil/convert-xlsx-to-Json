@@ -1,7 +1,7 @@
-<h2>Game need information </h2>
+<h3>Game need information </h3>
 
 
-<b>Cocos2dx<b>
+<b>Cocos2dx</b>
 
 Install:
 
